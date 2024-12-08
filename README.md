@@ -1,6 +1,6 @@
 # Quantum Virtual Mind (QVM) Workflow
 
-This repository contains the end-to-end workflow for implementing the Quantum Virtual Mind (QVM), a novel computational framework designed to simulate human cognitive processes using quantum mechanics and graph gauge theory.
+This repository contains the end-to-end workflow for implementing the toy model of Quantum Virtual Mind (QVM), a novel computational framework designed to simulate human cognitive processes using quantum mechanics and graph gauge theory.
 
 ## Overview
 
